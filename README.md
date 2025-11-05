@@ -32,3 +32,11 @@ This project analyzes **customer behavior and retention trends** using **SQL**, 
 ---
 
 ## 📂 Project Structure  
+
+📁 Customer-Churn-Analysis/
+│
+├── 📄 churn_analysis_queries.sql # SQL scripts for churn metrics
+├── 📊 churn_dashboard.twb # Tableau dashboard
+├── 📈 churn_summary.xlsx # Excel analysis & KPIs
+├── 📁 data/ # Dataset folder (CSV files)
+└── 📘 README.md # Project documentation
