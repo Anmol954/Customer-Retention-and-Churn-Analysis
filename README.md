@@ -31,11 +31,6 @@ This project analyzes **customer behavior and retention trends** using **SQL**, 
 
 ---
 
-## 📂 Project Structure  
-<pre> ```markdown 📁 Customer-Churn-Analysis/ │ ├── 📄 churn_analysis_queries.sql # SQL scripts for churn metrics ├── 📊 churn_dashboard.twb # Tableau dashboard ├── 📈 churn_summary.xlsx # Excel analysis & KPIs ├── 📁 data/ # Dataset folder (CSV files) └── 📘 README.md # Project documentation ``` </pre>
-
----
-
 ## 🚀 How to Run  
 
 ### 🔹 Step 1: Setup Database  
@@ -78,20 +73,6 @@ This analysis helps brands and marketing teams to:
 
 ## 🧰 Skills Highlighted  
 **SQL**, **Excel**, **Tableau**, **Power Query**, **Data Cleaning**, **Customer Analytics**, **Data Visualization**, **Business Insights**
-
----
-
-## 🌐 Repository Resources  
-📂 **Dataset:** *Add your dataset link here*  
-📑 **Dashboard Demo:** *Add your Tableau Public link here (if uploaded)*  
-
----
-
-## 🖼️ Project Preview  
-> *(Optional)*  
-> Add your Tableau dashboard or Excel report preview image below 👇  
-
-![Dashboard Preview](https://github.com/yourusername/Customer-Churn-Analysis/blob/main/preview.png)
 
 ---
 
